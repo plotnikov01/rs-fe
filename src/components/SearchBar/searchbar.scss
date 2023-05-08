@@ -1,0 +1,24 @@
+.searchbar {
+  height: 100%;
+
+  &__form {
+    height: 80%;
+    margin: 0 10px;
+    padding-top: 7px;
+  }
+
+  &__input {
+    height: 100%;
+    width: 200px;
+    border-radius: 50px;
+    border: none;
+    padding-left: 10px;
+  }
+
+  &__button {
+    margin-left: 10px;
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 50px;
+  }
+}

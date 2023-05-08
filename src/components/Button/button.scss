@@ -1,0 +1,11 @@
+@import "../../styles/index.scss";
+
+.button {
+  background-color: $color-green;
+  margin: 12px 0;
+  font-size: 15px;
+  padding: 7px;
+  border-radius: 50px;
+  box-sizing: border-box;
+  border: 2px solid white;
+}
